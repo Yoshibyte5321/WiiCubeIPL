@@ -2,3 +2,4 @@ Planned for user to supply their own GameCube IPL to work, if no IPL is found, w
 Will probably use some Nintendont Code, could also work with Nintendont
 Add a initial setup screen, similar to Nintendo's official IPL settup, but will be expanded upon.
 Planned to run off SD card, in a folder called "GC_IPL_MOD"
+Planned selectable Boot Menu
