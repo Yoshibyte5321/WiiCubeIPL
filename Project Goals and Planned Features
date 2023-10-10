@@ -1,5 +1,10 @@
 Planned for user to supply their own GameCube IPL to work, if no IPL is found, will use a barebones menu.
-Will probably use some Nintendont Code, could also work with Nintendont
-Add a initial setup screen, similar to Nintendo's official IPL settup, but will be expanded upon.
-Planned to run off SD card, in a folder called "GC_IPL_MOD"
-Planned selectable Boot Menu
+Will probably use some Nintendont Code, could also work with Nintendont (See Setup Goals in main)
+Add a initial setup screen, similar to Nintendo's official IPL setup, but will be expanded upon.
+Planned to run off SD card, in a folder called "GC_IPL_MOD" and can also run off USB Drives and planned to be run off GameCube Memory Cards as Backups of the IPL
+Syncing of IPL between SD and Memory Card. When options and config settings are made on SD, automatically start syncing on Memory Card.
+Planned selectable Boot Menu. (User can set default)
+Target Wii Users, GameCube will likely not be supported, Wii U users will be able to use vWii mode to access WiiCubeIPL from a cafe2wii fowarder (Using this we can get gamepad support)
+ONLY COMPATIBLE with Nintendo GameCube Controllers and Wii Classic Controllers, No Wii motes or Nunchucks. (Gamepad support through cafe2wii supported)
+Add Languages to "Options" Screen if using IPL that isn't PAL.
+Pretty standard memory card save data management screen, allowing for transfer between Memory cards and SD/USB
